@@ -12,8 +12,8 @@ end
 always @(posedge clk)
 begin
 case (t)
-1'b0: q <= q;
-1'bl: q <= q;
+  1'b0: q <= q;
+  1'bl: q <= q;
 endcase
 end
 endmodule
