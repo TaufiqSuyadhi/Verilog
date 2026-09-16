@@ -14,6 +14,10 @@ Digital system design tutorial using Verilog HDL and AMD Vivado Design Suite.
 9. [Multiplexer (MUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX))
 10. [Multiplexer (MUX) with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX)%20with%20Data%20Flow)
 11. [DeMultiplexer (DeMUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/DeMultiplexer%20(DeMUX))
+12. [DeMultiplexer (DeMUX) with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/DeMultiplexer%20(DeMUX)%20with%20Data%20Flow)
+13. [Encoder with Data flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Encoder%20with%20Data%20flow)
+14. [Decoder with Data flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Decoder%20with%20Data%20flow)
+15. [ALU](https://github.com/TaufiqSuyadhi/verilog/tree/main/ALU)
 
 ### 2. Digital System Mini Project Using Verilog
 1. ...
