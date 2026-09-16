@@ -9,6 +9,11 @@ Digital system design tutorial using Verilog HDL and AMD Vivado Design Suite.
 4. [Gate Level Converter](https://github.com/TaufiqSuyadhi/verilog/tree/main/Gate%20Level%20Converter)
 5. [Adder](https://github.com/TaufiqSuyadhi/verilog/tree/main/Adder)
 6. [Subtractor](https://github.com/TaufiqSuyadhi/verilog/tree/main/Subtractor)
+7. [Adder and Subtractor with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Adder%20and%20Subtractor%20with%20Data%20Flow)
+8. [Comparator with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Comparator%20with%20Data%20Flow)
+9. [Multiplexer (MUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX))
+10. [Multiplexer (MUX) with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX)%20with%20Data%20Flow)
+11. [DeMultiplexer (DeMUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/DeMultiplexer%20(DeMUX))
 
 ### 2. Digital System Mini Project Using Verilog
 1. ...
