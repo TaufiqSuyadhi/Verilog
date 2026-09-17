@@ -28,8 +28,15 @@ Digital system design tutorial using Verilog HDL and AMD Vivado Design Suite.
 23. [Counter MOD 5](https://github.com/TaufiqSuyadhi/verilog/tree/main/Counter%20MOD%205)
 24. [Counter Decade](https://github.com/TaufiqSuyadhi/verilog/tree/main/Counter%20Decade)
 25. [Counter Johnson](https://github.com/TaufiqSuyadhi/verilog/tree/main/Counter%20Johnson)
+26. [CMOS inverter using Switch-level modeling](https://github.com/TaufiqSuyadhi/verilog/tree/main/CMOS%20inverter%20using%20Switch-level%20modeling)
+27. [Basic Logic AND Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20AND%20Gate%20with%20Switch%20Level)
+28. [Basic Logic OR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20XOR%20Gate%20with%20Switch%20Level)
+29. [Basic Logic NAND Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20NAND%20Gate%20with%20Switch%20Level)
+30. [Basic Logic NOR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20NOR%20Gate%20with%20Switch%20Level)
+31. [Basic Logic XOR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20XOR%20Gate%20with%20Switch%20Level)
+32. [Switch Level Modeling based on equation](https://github.com/TaufiqSuyadhi/verilog/tree/main/Switch%20Level%20Modeling%20based%20on%20equation)
 
 ### 2. Digital System Mini Project Using Verilog
-1. ...
-2. ...
+1. [Project 1 - Design RTL schematic for FSM Mealy](https://github.com/TaufiqSuyadhi/verilog/tree/main/Project%201%20-%20Design%20RTL%20schematic%20for%20FSM%20Mealy)
+2. [Project 2 - Digital Stopwatch using Verilog](https://github.com/TaufiqSuyadhi/verilog/tree/main/Project%202%20-%20Digital%20Stopwatch%20using%20Verilog)
 3. ...
