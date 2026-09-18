@@ -1,5 +1,5 @@
 # Verilog HDL Programming
-Digital system design tutorial using Verilog HDL and AMD Vivado Design Suite.  
+Digital system design tutorial using Verilog HDL.  
 
 ### 1. Basic Digital System Design Using Verilog
 
