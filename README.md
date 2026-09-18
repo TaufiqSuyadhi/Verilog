@@ -1,5 +1,5 @@
 # Verilog HDL Programming
-Digital system design tutorial using Verilog HDL.  
+Learning materials - Digital system design tutorial using Verilog HDL.  
 
 ### 1. Basic Digital System Design Using Verilog
 
