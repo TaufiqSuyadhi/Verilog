@@ -10,8 +10,8 @@ Learning materials - Digital system design tutorial using Verilog HDL.
 5. [Adder](https://github.com/TaufiqSuyadhi/verilog/tree/main/Adder)
 6. [Subtractor](https://github.com/TaufiqSuyadhi/verilog/tree/main/Subtractor)
 7. [Adder and Subtractor with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Adder%20and%20Subtractor%20with%20Data%20Flow)
-8. Comparator
-9. [Comparator with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Comparator%20with%20Data%20Flow)
+8. [Comparator 2-bit](https://github.com/TaufiqSuyadhi/Verilog/tree/main/Comparator%202-bit)
+9. [Comparator 4-bit](https://github.com/TaufiqSuyadhi/Verilog/tree/main/Comparator%204-bit)
 10. [Multiplexer (MUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX))
 11. [Multiplexer (MUX) with Data Flow](https://github.com/TaufiqSuyadhi/verilog/tree/main/Multiplexer%20(MUX)%20with%20Data%20Flow)
 12. [DeMultiplexer (DeMUX)](https://github.com/TaufiqSuyadhi/verilog/tree/main/DeMultiplexer%20(DeMUX))
