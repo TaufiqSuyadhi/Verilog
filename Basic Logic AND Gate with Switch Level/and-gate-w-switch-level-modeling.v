@@ -1,4 +1,4 @@
-// Verilog code to implement AND using Switch-level modeling
+// Verilog code to implement AND gate using Switch-level modeling
 
 module cmos_and (y, a, b);
 output y;
