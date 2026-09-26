@@ -1,4 +1,4 @@
-// Verilog testbench code to simulation AND gate using Switch-level modeling
+// Verilog testbench code to simulate AND gate using Switch-level modeling
 
 module cmos_and_tb();
 wire y;
