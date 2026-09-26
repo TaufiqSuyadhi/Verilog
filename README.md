@@ -30,7 +30,7 @@ Learning materials - Digital system design tutorial using Verilog HDL.
 25. [Counter Johnson](https://github.com/TaufiqSuyadhi/verilog/tree/main/Counter%20Johnson)
 26. [CMOS inverter using Switch-level modeling](https://github.com/TaufiqSuyadhi/verilog/tree/main/CMOS%20inverter%20using%20Switch-level%20modeling)
 27. [Basic Logic AND Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20AND%20Gate%20with%20Switch%20Level)
-28. [Basic Logic OR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20XOR%20Gate%20with%20Switch%20Level)
+28. [Basic Logic OR Gate with Switch Level](https://github.com/TaufiqSuyadhi/Verilog/tree/main/Basic%20Logic%20OR%20Gate%20with%20Switch%20Level)
 29. [Basic Logic NAND Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20NAND%20Gate%20with%20Switch%20Level)
 30. [Basic Logic NOR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20NOR%20Gate%20with%20Switch%20Level)
 31. [Basic Logic XOR Gate with Switch Level](https://github.com/TaufiqSuyadhi/verilog/tree/main/Basic%20Logic%20XOR%20Gate%20with%20Switch%20Level)
